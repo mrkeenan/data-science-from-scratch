@@ -155,6 +155,8 @@ if __name__ == "__main__":
     make_chart_misleading_y_axis(plt, mislead=False)
 
     make_chart_several_line_charts(plt)
+    
+    make_chart_scatter_plot(plt)
 
     make_chart_scatterplot_axes(plt, equal_axes=False)
 
